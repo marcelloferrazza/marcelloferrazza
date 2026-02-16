@@ -6,7 +6,8 @@ Full Stack Web Developer
 <div align="left">
   <a href="https://github.com/marcelloferrazza">
 <img height="180"
-src="https://github-readme-stats-6d07kbff7-marcelloferrazzas-projects.vercel.app/api/top-langs/?username=marcelloferrazza&layout=compact&langs_count=20&count_private=true&include_forks=true&hide_border=true"/>
+src="https://github-readme-stats-n6v4eky5y-marcelloferrazzas-projects.vercel.app/api/top-langs/?username=marcelloferrazza&layout=compact&theme=radical"/>
+
 
   </a>
 </div>
