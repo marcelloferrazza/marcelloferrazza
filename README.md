@@ -4,13 +4,13 @@ Full Stack Web Developer
 
 
 <div align="left">
-  <a href="https://github.com/marcelloferrazza">
+
 <img height="180"
 src="https://github-readme-stats-6d07kbff7-marcelloferrazzas-projects.vercel.app/api/top-langs/?username=marcelloferrazza&layout=compact&theme=radical&hide_border=true&langs_count=20&count_private=true"/>
 
 
 
-  </a>
+  
 </div>
 
 
