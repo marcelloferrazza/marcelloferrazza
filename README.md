@@ -32,4 +32,7 @@ src="https://github-readme-stats-kappa-six-87.vercel.app/api/top-langs/?username
   <a href="https://instagram.com/marcelloferrazza" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  <a href="https://www.linkedin.com/in/marcello-cora/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
